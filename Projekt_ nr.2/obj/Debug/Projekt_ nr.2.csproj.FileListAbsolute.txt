@@ -1,0 +1,7 @@
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\bin\Debug\Projekt_ nr.2.exe.config
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\bin\Debug\Projekt_ nr.2.exe
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\bin\Debug\Projekt_ nr.2.pdb
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\obj\Debug\Projekt_ nr.2.csprojResolveAssemblyReference.cache
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\obj\Debug\Projekt_ nr.2.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\obj\Debug\Projekt_ nr.2.exe
+C:\Users\grzeg\source\repos\Projekt_ nr.2 Grzegrzółka Mateusz 46792\Projekt_ nr.2\obj\Debug\Projekt_ nr.2.pdb
